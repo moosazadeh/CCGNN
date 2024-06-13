@@ -1,2 +1,7 @@
-# CCGNN
-The source code for "CCGNN: Collaborative and Category-aware Graph Neural Networks for Session-based Recommendation Systems".
+Data preprocessing:
+     Run preprocess_Diginetica.py from datasets folder.
+	Run find_neighbors.py
+	    Run build_global_graph.py
+
+To train and evaluate the model:
+     Run main.py
