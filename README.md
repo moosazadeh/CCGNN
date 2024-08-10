@@ -1,6 +1,6 @@
 Data preprocessing:
 
-     Run preprocess_Diginetica.py from datasets folder.
+     Run preprocess_Tmall.py from datasets folder.
      
 	Run find_neighbors.py
  
